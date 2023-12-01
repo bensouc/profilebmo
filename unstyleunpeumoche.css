@@ -1,0 +1,38 @@
+body {
+	background-color: lightcyan;
+	font-family: Courier, monospace;
+}
+
+h1{
+	color: blue;
+	font-family: Roboto;
+}
+
+#cursus{
+	font-size: 24px;
+	color: darkblue;
+}
+#hobbies{
+	font-size: 24px;
+	color: darkgreen;
+}
+li{
+	color: rgb(153, 204, 0);
+}
+
+.fontstyle{
+	color: darkgoldenrod;
+}
+
+
+a{
+	text-decoration: none;
+}
+div{
+	border: thin solid red;
+	border-radius: 15px;
+	margin: 30px;
+	padding: 5px;
+	width: 300px;
+	background-color: grey;
+}
