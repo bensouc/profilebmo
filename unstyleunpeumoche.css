@@ -1,11 +1,25 @@
 body {
 	background-color: lightcyan;
 	font-family: Courier, monospace;
+	margin: 0 !important;
+}
+.first-div{
+	width:100%;
+	margin: 0 !important;
+}
+.flex{
+	display: flex;
+	background-color: none;
+	border: none;
 }
 
 h1{
 	color: red;
 	font-family: Roboto;
+}
+
+.flex{
+	display: flex;
 }
 
 #cursus{
